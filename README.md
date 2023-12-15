@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My Graduation Project <br>👯 I’m looking to collaborate on Web development & Mobile application<br>🌱 I’m currently aiming to upgrade my skills in cybersecurity <br>💬 Ask me about JAVA, HTML, Flutter, ReactNative, MySQL 
+🔭 I’m currently working on Back-end with Laravel  <br>👯 I’m looking to collaborate on Web development<br>🌱 I’m currently aiming to upgrade my skills in cloud computing and DevOps <br>💬 Ask me about JAVA, Flutter, Laravel, MySQL, AWS 
 
 
 ## 🌐 Socials:
