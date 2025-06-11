@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Back-end with Laravel  <br>👯 I’m looking to collaborate on Web development<br>🌱 I’m currently aiming to upgrade my skills in cloud computing and DevOps <br>💬 Ask me about JAVA, Flutter, Laravel, MySQL, AWS 
+🔭 I’m currently working on Back-end with Laravel  <br>👯 I’m looking to collaborate on Web development<br>🌱 I’m currently aiming to upgrade my skills in cloud computing and DevOps <br>💬 Ask me about JAVA, Flutter, Laravel, MySQL, AWS, REST API, Linux, NGINX
 
 
 ## 🌐 Socials:
